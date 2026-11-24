@@ -27,3 +27,23 @@
 ### Resultado
 
 Se desarrolló un programa capaz de analizar texto desde la terminal, mostrar estadísticas de sus caracteres y validar el límite de 42 runas.
+
+
+# Bitácora de trabajo
+
+## Tarea 03 - Conversor de unidades en Go
+
+### Trabajo realizado
+
+- Creación de la carpeta 03-tarea3.
+- Inicialización del módulo Go.
+- Creación del programa main.go.
+- Implementación de conversión de unidades de almacenamiento.
+- Validación de los argumentos recibidos.
+- Validación de valores numéricos y unidades.
+- Manejo de errores mediante códigos de salida.
+- Pruebas de las conversiones y de los casos de error.
+- Elaboración del README.md.
+- Publicación de los archivos en GitHub.
+
+

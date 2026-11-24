@@ -55,3 +55,7 @@ límite de 42 runas: dentro
 ## Autor
 
 Omar Caguana
+
+## Tareas
+
+- [03-tarea3 - Conversor de almacenamiento](./03-tarea3/)
