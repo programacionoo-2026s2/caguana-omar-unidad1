@@ -59,3 +59,9 @@ Omar Caguana
 ## Tareas
 
 - [03-tarea3 - Conversor de almacenamiento](./03-tarea3/)
+
+## 04-taller2 - FizzBuzz en Go
+
+Programa que utiliza for, switch sin condición y contadores para resolver el ejercicio FizzBuzz del 1 al 30.
+
+[Ver taller 04-taller1](./04-taller1/)

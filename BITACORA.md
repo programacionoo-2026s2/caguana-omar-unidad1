@@ -47,3 +47,22 @@ Se desarrolló un programa capaz de analizar texto desde la terminal, mostrar es
 - Publicación de los archivos en GitHub.
 
 
+## Taller 04-taller2 - FizzBuzz
+
+### Trabajo realizado
+
+- Creación de la carpeta 04-taller1.
+- Inicialización del módulo Go.
+- Creación del archivo main.go.
+- Implementación del bucle for para recorrer del 1 al 30.
+- Uso de switch sin condición para evaluar las reglas de FizzBuzz.
+- Creación de contadores para Fizz, Buzz y FizzBuzz.
+- Prueba cambiando el orden de los case.
+- Documentación del programa y sus resultados.
+
+### Lo aprendido
+
+Aprendí que el orden de los case en un switch es importante porque Go ejecuta solamente el primer caso verdadero. También aprendí a utilizar el operador módulo y los contadores para comprobar los resultados.
+
+
+
