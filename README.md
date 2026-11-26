@@ -65,3 +65,9 @@ Omar Caguana
 Programa que utiliza for, switch sin condición y contadores para resolver el ejercicio FizzBuzz del 1 al 30.
 
 [Ver taller 04-taller1](./04-taller1/)
+
+## 05-taller1 - Estadísticas de notas
+
+Programa en Go que utiliza funciones variádicas, resultados con nombre y errores centinela para calcular estadísticas de calificaciones.
+
+[Ver taller 05-taller1](./05-taller1/)

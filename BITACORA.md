@@ -64,5 +64,8 @@ Se desarrolló un programa capaz de analizar texto desde la terminal, mostrar es
 
 Aprendí que el orden de los case en un switch es importante porque Go ejecuta solamente el primer caso verdadero. También aprendí a utilizar el operador módulo y los contadores para comprobar los resultados.
 
+## 05-taller1 - Funciones en Go
+
+Se creó una función variádica para calcular la nota menor, la mayor y el promedio. Se practicó el uso de slices, resultados con nombre y el manejo de errores mediante un error centinela.
 
 
