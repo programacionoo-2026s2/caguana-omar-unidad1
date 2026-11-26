@@ -7,6 +7,7 @@ import (
 
 var ErrSinDatos = errors.New("no se recibieron datos")
 
+// estadisticas calcula la nota menor, mayor y el promedio de las notas recibidas.
 func estadisticas(nums ...float64) (menor, mayor, promedio float64, err error) {
 	if len(nums) == 0 {
 		err = ErrSinDatos

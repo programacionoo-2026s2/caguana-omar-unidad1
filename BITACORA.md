@@ -67,5 +67,5 @@ Aprendí que el orden de los case en un switch es importante porque Go ejecuta s
 ## 05-taller1 - Funciones en Go
 
 Se creó una función variádica para calcular la nota menor, la mayor y el promedio. Se practicó el uso de slices, resultados con nombre y el manejo de errores mediante un error centinela.
-
+Se documentó la función estadisticas y se realizaron comprobaciones de formato y análisis del código con las herramientas de Go.
 

@@ -71,3 +71,4 @@ Programa que utiliza for, switch sin condición y contadores para resolver el ej
 Programa en Go que utiliza funciones variádicas, resultados con nombre y errores centinela para calcular estadísticas de calificaciones.
 
 [Ver taller 05-taller1](./05-taller1/)
+El taller también incluye documentación sobre la validación del programa y el uso de funciones variádicas.

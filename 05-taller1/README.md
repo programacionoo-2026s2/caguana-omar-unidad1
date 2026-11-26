@@ -43,3 +43,6 @@ Se llaman menor y mayor porque son los nombres de los resultados que devuelve la
 **b) ¿Qué hacen los tres puntos en estadisticas(notas...)? ¿Qué mensaje da Go si los quitas y por qué?**
 
 Los tres puntos permiten pasar todos los elementos del slice como valores individuales a la función variádica. Si se quitan, Go produce un error porque se estaría intentando pasar un slice de tipo []float64 como si fuera un único valor float64.
+### Validación
+
+Se comprobó el funcionamiento con valores individuales, con un slice y sin recibir datos. También se verificó el código con gofmt y go vet.
